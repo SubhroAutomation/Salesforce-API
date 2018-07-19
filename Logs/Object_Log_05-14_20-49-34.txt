@@ -1,0 +1,534 @@
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 103
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 116
+Inside Catch: null
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 122
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 126
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 128
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 132
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 134
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 138
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 140
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 144
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 146
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 150
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 151
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 152
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 153
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 154
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 155
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 156
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 158
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 162
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 163
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 164
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 165
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 166
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 167
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 168
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 169
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 170
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 171
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 172
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 173
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 174
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 175
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 176
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 177
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 178
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 179
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 180
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 181
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 182
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 183
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 184
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 185
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 186
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 187
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 188
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 189
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 190
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 191
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 192
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 193
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 194
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 195
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 196
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 197
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 198
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 199
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 200
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 201
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 202
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 203
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 204
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 205
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 206
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 207
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 208
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 209
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 210
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 211
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 212
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 213
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 214
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 215
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 216
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 217
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 218
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 219
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 220
+Inside Catch: null
+key is: System Administrator & Value is: 
+[Cost_Matrix__c#Read, Create, Edit, Delete, View All, Modify All#PPA#PPA, Cost_Matrix_Line__c#Read, Create, Edit, Delete, View All, Modify All#PPA#PPA, Quote_Design__c#Read, Create, Edit, Delete, View All, Modify All#Commercial#Commercial, Quote#BLANK#Commercial_Quote#BLANK, Annual_Financial__c#BLANK#Commercial,Residential#Residential]
+key is: SunPower Admin(No Deployment) & Value is: 
+[Cost_Matrix__c#Read, Create, Edit, Delete, View All, Modify All#PPA#PPA, Cost_Matrix_Line__c#Read, Create, Edit, Delete, View All, Modify All#PPA#PPA, Quote_Design__c#Read, Create, Edit, Delete, View All, Modify All#Commercial#Commercial, Quote#BLANK#Commercial_Quote#BLANK, Annual_Financial__c#BLANK#Commercial,Residential#Residential]
+key is: Sales Ops & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+key is: O&M Manager & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+key is: Finance and Accounting & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+key is: Global Sales Ops & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+key is: SunPower Super User & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+key is: Project Manager & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+key is: Company Executive & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: Design & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: Design Advance & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: Design Management & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: Design Support Engineer & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: Sales Management & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: Sales Analyst & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: Structured Finance & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK, Design__C#Read#Proposal_Design#Proposal_Design]
+key is: SunPower Lease/Pricing Administrator & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: SunPower Lease Payment Access & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: SunPower Marketing Analyst & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: SunPower Order Management & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: SunPower Partner Ambassador & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK, Design__C#Read#Proposal_Design#Proposal_Design]
+key is: Sunpower Pricing Administrator & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: SunPower Read Only & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: SunPower Sales User & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: SunPower Service User & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: SunPower User & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: xxx SunPower Service User & Value is: 
+[Quote_Design__c#Read#BLANK#BLANK]
+key is: Partner Delegated Administrator & Value is: 
+[Quote#BLANK#Commercial_Quote#BLANK]
+key is: Partner Executive & Value is: 
+[Quote#BLANK#Commercial_Quote#BLANK]
+key is: Partner Sales & Value is: 
+[Quote#BLANK#Commercial_Quote#BLANK]
+key is: Partner Technical & Value is: 
+[Quote#BLANK#Commercial_Quote#BLANK]
+key is: Partner Operations & Value is: 
+[Quote#BLANK#Commercial_Quote#BLANK]
+-------------------------------------------------
+Profile: SunPower Admin(No Deployment)
+Object: [Cost_Matrix__c#Read, Create, Edit, Delete, View All, Modify All#PPA#PPA, Cost_Matrix_Line__c#Read, Create, Edit, Delete, View All, Modify All#PPA#PPA, Quote_Design__c#Read, Create, Edit, Delete, View All, Modify All#Commercial#Commercial, Quote#BLANK#Commercial_Quote#BLANK, Annual_Financial__c#BLANK#Commercial,Residential#Residential]
+-------------------------------------------------
+Profile: Sales Ops
+Object: [Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: O&M Manager
+Object: [Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Finance and Accounting
+Object: [Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Global Sales Ops
+Object: [Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Super User
+Object: [Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Project Manager
+Object: [Quote_Design__c#Read#BLANK#BLANK, Annual_Financial__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Company Executive
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Design
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Design Advance
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Design Management
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Design Support Engineer
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sales Management
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sales Analyst
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Structured Finance
+Object: [Quote_Design__c#Read#BLANK#BLANK, Design__C#Read#Proposal_Design#Proposal_Design]
+-------------------------------------------------
+Profile: SunPower Lease/Pricing Administrator
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Lease Payment Access
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Marketing Analyst
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Order Management
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Partner Ambassador
+Object: [Quote_Design__c#Read#BLANK#BLANK, Design__C#Read#Proposal_Design#Proposal_Design]
+-------------------------------------------------
+Profile: Sunpower Pricing Administrator
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Read Only
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Sales User
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Service User
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower User
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxx SunPower Service User
+Object: [Quote_Design__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner Delegated Administrator
+Object: [Quote#BLANK#Commercial_Quote#BLANK]
+-------------------------------------------------
+Profile: Partner Executive
+Object: [Quote#BLANK#Commercial_Quote#BLANK]
+-------------------------------------------------
+Profile: Partner Sales
+Object: [Quote#BLANK#Commercial_Quote#BLANK]
+-------------------------------------------------
+Profile: Partner Technical
+Object: [Quote#BLANK#Commercial_Quote#BLANK]
+-------------------------------------------------
+Profile: Partner Operations
+Object: [Quote#BLANK#Commercial_Quote#BLANK]
+-------------------------------------------------
+Profile: Analytics Cloud Integration User
+Object: []
+-------------------------------------------------
+Profile: Analytics Cloud Security User
+Object: []
+-------------------------------------------------
+Profile: AU Partner Executive
+Object: []
+-------------------------------------------------
+Profile: AU Partner Installer
+Object: []
+-------------------------------------------------
+Profile: AU Partner Operations
+Object: []
+-------------------------------------------------
+Profile: Birlasoft Support Admin
+Object: []
+-------------------------------------------------
+Profile: Chatter External User
+Object: []
+-------------------------------------------------
+Profile: Chatter Free User
+Object: []
+-------------------------------------------------
+Profile: Chatter Moderator User
+Object: []
+-------------------------------------------------
+Profile: Dealer Locator Profile
+Object: []
+-------------------------------------------------
+Profile: Design - SSO
+Object: []
+-------------------------------------------------
+Profile: DesignSignOff Profile
+Object: []
+-------------------------------------------------
+Profile: Eloqua_Qualification WebService Profile
+Object: []
+-------------------------------------------------
+Profile: EU Partner Delegated Administrator
+Object: []
+-------------------------------------------------
+Profile: EU Partner Executive
+Object: []
+-------------------------------------------------
+Profile: EU Partner Operations
+Object: []
+-------------------------------------------------
+Profile: EU Partner Restricted
+Object: []
+-------------------------------------------------
+Profile: EU Partner Sales
+Object: []
+-------------------------------------------------
+Profile: EU Partner Technical
+Object: []
+-------------------------------------------------
+Profile: EU Residential Installer
+Object: []
+-------------------------------------------------
+Profile: EU TPO FR Partner Delegated Administrator
+Object: []
+-------------------------------------------------
+Profile: Force.com - One App User
+Object: []
+-------------------------------------------------
+Profile: Gold Partner User
+Object: []
+-------------------------------------------------
+Profile: Greenlight Credit Check Integration
+Object: []
+-------------------------------------------------
+Profile: Guest License User
+Object: []
+-------------------------------------------------
+Profile: Marketing Connect5
+Object: []
+-------------------------------------------------
+Profile: Overage Customer Portal Manager Custom
+Object: []
+-------------------------------------------------
+Profile: Partner Restricted
+Object: []
+-------------------------------------------------
+Profile: Partner Sales NH
+Object: []
+-------------------------------------------------
+Profile: Partner SSE Installer
+Object: []
+-------------------------------------------------
+Profile: Partner SSE Installer NH
+Object: []
+-------------------------------------------------
+Profile: Partner TPS
+Object: []
+-------------------------------------------------
+Profile: Partner TPS - DRIP
+Object: []
+-------------------------------------------------
+Profile: Partner TPS - IP
+Object: []
+-------------------------------------------------
+Profile: Partner TPS Executive
+Object: []
+-------------------------------------------------
+Profile: PartnerPortalLogin Profile
+Object: []
+-------------------------------------------------
+Profile: PartnerPortalLoginTest Profile
+Object: []
+-------------------------------------------------
+Profile: Partners Profile
+Object: []
+-------------------------------------------------
+Profile: Platform PM Tool User
+Object: []
+-------------------------------------------------
+Profile: Sales Analyst - UPP
+Object: []
+-------------------------------------------------
+Profile: Sales Management - UPP
+Object: []
+-------------------------------------------------
+Profile: Sales Ops - UPP
+Object: []
+-------------------------------------------------
+Profile: Sales Person
+Object: []
+-------------------------------------------------
+Profile: Sales Person - UPP
+Object: []
+-------------------------------------------------
+Profile: Solar Advisor
+Object: []
+-------------------------------------------------
+Profile: SPWRPartner Community Profile
+Object: []
+-------------------------------------------------
+Profile: SPWRPartner CommunityOld Profile
+Object: []
+-------------------------------------------------
+Profile: Sunpower Admin(No Deployment)
+Object: []
+-------------------------------------------------
+Profile: SunPower Administrator
+Object: []
+-------------------------------------------------
+Profile: SunPower Credit
+Object: []
+-------------------------------------------------
+Profile: Sunpower CRM Profile
+Object: []
+-------------------------------------------------
+Profile: SunPower CTI
+Object: []
+-------------------------------------------------
+Profile: SunPower Direct Sales RLC
+Object: []
+-------------------------------------------------
+Profile: SunPower External Integration
+Object: []
+-------------------------------------------------
+Profile: SunPower External Integration Eloqua
+Object: []
+-------------------------------------------------
+Profile: SunPower Help Desk
+Object: []
+-------------------------------------------------
+Profile: SunPower Integration Engagio
+Object: []
+-------------------------------------------------
+Profile: SunPower LMS Administrator
+Object: []
+-------------------------------------------------
+Profile: SunPower Product Vendor Supplier
+Object: []
+-------------------------------------------------
+Profile: Sunrise Administrator - Advance
+Object: []
+-------------------------------------------------
+Profile: System Administrator - Integration
+Object: []
+-------------------------------------------------
+Profile: System Administrator - No Customization
+Object: []
+-------------------------------------------------
+Profile: System Administrator - No DDL
+Object: []
+-------------------------------------------------
+Profile: xxxxSunPower Lease Payment User
+Object: []
+-------------------------------------------------
+Profile: xxxxSunrise Administrator
+Object: []
+-------------------------------------------------
+Profile: Standard
+Object: []
+-------------------------------------------------
+Profile: Admin
+Object: [Cost_Matrix__c#Read, Create, Edit, Delete, View All, Modify All#PPA#PPA, Cost_Matrix_Line__c#Read, Create, Edit, Delete, View All, Modify All#PPA#PPA, Quote_Design__c#Read, Create, Edit, Delete, View All, Modify All#Commercial#Commercial, Quote#BLANK#Commercial_Quote#BLANK, Annual_Financial__c#BLANK#Commercial,Residential#Residential]
+-------------------------------------------------
+Profile: ContractManager
+Object: []
+-------------------------------------------------
+Profile: MarketingProfile
+Object: []
+-------------------------------------------------
+Profile: ReadOnly
+Object: []
+-------------------------------------------------
+Profile: SolutionManager
+Object: []
+-------------------------------------------------
+Profile: StandardAul
+Object: []
+****************************************************************
+        Setting Object Access in salesforce for Profiles:       
+****************************************************************
+--------------------------------------------------------------
+Comparing Object Access in RTP and salesforce for array of following 10 profiles: 
+1. SunPower Admin(No Deployment) |2. Sales Ops |3. O&M Manager |4. Finance and Accounting |5. Global Sales Ops |6. SunPower Super User |7. Project Manager |8. Company Executive |9. Design |10. Design Advance |Comparing component: SunPower Admin(No Deployment)
+Comparing component: Sales Ops
+Comparing component: O&M Manager
+Comparing component: Finance and Accounting
+Comparing component: Global Sales Ops
+Comparing component: SunPower Super User
+Comparing component: Project Manager
+Comparing component: Company Executive
+Comparing component: Design
+Comparing component: Design Advance
+
+Setting Object Access for Profile: 
+1. SunPower Admin(No Deployment) |2. Sales Ops |3. O&M Manager |4. Finance and Accounting |5. Global Sales Ops |6. SunPower Super User |7. Project Manager |8. Company Executive |9. Design |10. Design Advance |
+--------------------------------------------------------------
+Comparing Object Access in RTP and salesforce for array of following 10 profiles: 
+12. Design Management |13. Design Support Engineer |14. Sales Management |15. Sales Analyst |16. Structured Finance |17. SunPower Lease/Pricing Administrator |18. SunPower Lease Payment Access |19. SunPower Marketing Analyst |20. SunPower Order Management |21. SunPower Partner Ambassador |Comparing component: Design Management
+Comparing component: Design Support Engineer
+Comparing component: Sales Management
+Comparing component: Sales Analyst
+Comparing component: Structured Finance
+Comparing component: SunPower Lease/Pricing Administrator
+Comparing component: SunPower Lease Payment Access
+Comparing component: SunPower Marketing Analyst
+Comparing component: SunPower Order Management
+Comparing component: SunPower Partner Ambassador
+
+Setting Object Access for Profile: 
+11. Design Management |12. Design Support Engineer |13. Sales Management |14. Sales Analyst |15. Structured Finance |16. SunPower Lease/Pricing Administrator |17. SunPower Lease Payment Access |18. SunPower Marketing Analyst |19. SunPower Order Management |20. SunPower Partner Ambassador |
+--------------------------------------------------------------
+Comparing Object Access in RTP and salesforce for array of following 10 profiles: 
+23. Sunpower Pricing Administrator |24. SunPower Read Only |25. SunPower Sales User |26. SunPower Service User |27. SunPower User |28. xxx SunPower Service User |29. Partner Delegated Administrator |30. Partner Executive |31. Partner Sales |32. Partner Technical |Comparing component: Sunpower Pricing Administrator
+Comparing component: SunPower Read Only
+Comparing component: SunPower Sales User
+Comparing component: SunPower Service User
+Comparing component: SunPower User
+Comparing component: xxx SunPower Service User
+Comparing component: Partner Delegated Administrator
+Comparing component: Partner Executive
+Comparing component: Partner Sales
+Comparing component: Partner Technical
+
+Setting Object Access for Profile: 
+21. Sunpower Pricing Administrator |22. SunPower Read Only |23. SunPower Sales User |24. SunPower Service User |25. SunPower User |26. xxx SunPower Service User |27. Partner Delegated Administrator |28. Partner Executive |29. Partner Sales |30. Partner Technical |
+--------------------------------------------------------------
+Comparing Object Access in RTP and salesforce for array of following 10 profiles: 
+34. Partner Operations |35. Analytics Cloud Integration User |36. Analytics Cloud Security User |37. AU Partner Executive |38. AU Partner Installer |39. AU Partner Operations |40. Birlasoft Support Admin |41. Chatter External User |42. Chatter Free User |43. Chatter Moderator User |Comparing component: Partner Operations
+Comparing component: Analytics Cloud Integration User
+Nothing To Set for Profile: Analytics Cloud Integration User
+Comparing component: Analytics Cloud Security User
+Nothing To Set for Profile: Analytics Cloud Security User
+Comparing component: AU Partner Executive
+Nothing To Set for Profile: AU Partner Executive
+Comparing component: AU Partner Installer
+Nothing To Set for Profile: AU Partner Installer
+Comparing component: AU Partner Operations
+Nothing To Set for Profile: AU Partner Operations
+Comparing component: Birlasoft Support Admin
+Nothing To Set for Profile: Birlasoft Support Admin
+Comparing component: Chatter External User
+Nothing To Set for Profile: Chatter External User
+Comparing component: Chatter Free User
+Nothing To Set for Profile: Chatter Free User
+Comparing component: Chatter Moderator User
+Nothing To Set for Profile: Chatter Moderator User

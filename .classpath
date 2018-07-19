@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/enterprise.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/force-wsc-29.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/force-wsc-37.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/jackcess-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/metadata37.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/partner.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/ucanaccess-3.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/PostDepTool/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Sun Power/Automation/DatabaseAppPartnerWsdl/lib/partner.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_112"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

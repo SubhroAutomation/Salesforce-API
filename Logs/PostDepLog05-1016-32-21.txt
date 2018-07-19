@@ -1,0 +1,549 @@
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 36
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 43
+Inside Catch: null
+Inside Catch: null
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 52
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 57
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 62
+Inside Catch: null
+Inside Catch: null
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 69
+Inside Catch: null
+Inside Catch: null
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 76
+Inside Catch: null
+Inside Catch: null
+-------------------------------------------------
+Profile: Company Executive
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Design
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Design Advance
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Design Management
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Design Support Engineer
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Finance and Accounting
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Global Sales Ops
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Marketing Connect5
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: O&M Manager
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Project Manager
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sales Analyst
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sales Management
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sales Ops
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sales Person
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Structured Finance
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Administrator
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Help Desk
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Lease Payment Access
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Marketing Analyst
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Order Management
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Sales User
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Service User
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Super User
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower User
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxx SunPower Service User
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read Only, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Admin(No Deployment)
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read/Write]
+-------------------------------------------------
+Profile: System Administrator - Integration
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner Delegated Administrator
+Field/Obj/Access Entries: [Opportunity.Installation_Date__c#Read/Write, Opportunity.Contract_Type__c#Read/Write, Opportunity.Commercial_Operation_Date__c#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner Executive
+Field/Obj/Access Entries: [Opportunity.Installation_Date__c#Read/Write, Opportunity.Contract_Type__c#Read/Write, Opportunity.Commercial_Operation_Date__c#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner Sales
+Field/Obj/Access Entries: [Opportunity.Installation_Date__c#Read/Write, Opportunity.Contract_Type__c#Read/Write, Opportunity.Commercial_Operation_Date__c#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner Technical
+Field/Obj/Access Entries: [Opportunity.Installation_Date__c#Read/Write, Opportunity.Contract_Type__c#Read/Write, Opportunity.Commercial_Operation_Date__c#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner Operations
+Field/Obj/Access Entries: [Opportunity.Installation_Date__c#Read/Write, Opportunity.Contract_Type__c#Read/Write, Opportunity.Commercial_Operation_Date__c#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Solar Advisor
+Field/Obj/Access Entries: [Opportunity.Solar_Advisor_Notes_For_EC__c#Read/Write, Lead.Expected_Close_of_Escrow__c#Read/Write, Opportunity.Expected_Close_of_Escrow__c#Read/Write, Opportunity.Qualified_by__c#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner TPS
+Field/Obj/Access Entries: [Opportunity.Campaign#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner SSE Installer
+Field/Obj/Access Entries: [Lead.Expected_Close_of_Escrow__c#Read/Write, Opportunity.Expected_Close_of_Escrow__c#Read/Write, Opportunity.Qualified_by__c#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner SSE Installer NH
+Field/Obj/Access Entries: [Lead.Expected_Close_of_Escrow__c#Read/Write, Opportunity.Expected_Close_of_Escrow__c#Read/Write, Opportunity.Qualified_by__c#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Analytics Cloud Integration User
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Analytics Cloud Security User
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: AU Partner Executive
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: AU Partner Installer
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: AU Partner Operations
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: AU Partner Sales
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Birlasoft Support Admin
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Chatter External User
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Chatter Free User
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Chatter Moderator User
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Dealer Locator Profile
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Design - SSO
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: DesignSignOff Profile
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Eloqua_Qualification WebService Profile
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: EU Partner Delegated Administrator
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: EU Partner Executive
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: EU Partner Operations
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: EU Partner Restricted
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: EU Partner Sales
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: EU Partner Technical
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: EU Residential Installer
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: EU TPO FR Partner Delegated Administrator
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: EU TPO FR Partner Sales
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: EU UAT Online Warranty
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Force.com - One App User
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Force.com - One App User Custom
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Gold Partner User
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Greenlight Credit Check Integration
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Guest License User
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: NA Warranty Pilot
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Overage Customer Portal Manager Custom
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner Operations (TEST)
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner Restricted
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner Sales NH
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner TPS - DRIP
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partner TPS - IP
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: PartnerPortalLogin Profile
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: PartnerPortalLoginTest Profile
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Partners Profile
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Platform PM Tool User
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sales Analyst - UPP
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sales Management - UPP
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sales Ops - UPP
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sales Person - UPP
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sunpower Admin(No Deployment)
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Contracts Origination Admin
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Credit
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sunpower CRM Profile
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower CTI
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Direct Sales RLC
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower External Integration
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower External Integration Eloqua
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Inspector
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Lease/Pricing Administrator
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower LMS Administrator
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Partner Ambassador
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Partner Community Profile
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Portal Profile
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sunpower Pricing Administrator
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Product Vendor Supplier
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Read Only
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower Read Only - MDM
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SunPower User - PM Tool
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sunpower Vendor - Lease Support
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Sunrise Administrator - Advance
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: System Administrator - No Customization
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: System Administrator - No DDL
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: System Administrator - No user Admin
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Test Profile (CRD Pilot)
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: TPO DSE Upload
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxCPR Integration
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxLocator external Integration
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxNew EU Partner Executive
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxProject Manager Advance
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxSales Ops - EU
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxSales Person - EU
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxSunPower Inspector New
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxSunPower Lease Payment User
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxSunPower Super User - PKB
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxSunPower User - Alliance
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxSunPower User - Modify
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxSunPower User - WW
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: xxxxSunrise Administrator
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Standard
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: Admin
+Field/Obj/Access Entries: [EnergyProductionYr1__c.Design__c#Read/Write, Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: ContractManager
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: MarketingProfile
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: ReadOnly
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: SolutionManager
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+-------------------------------------------------
+Profile: StandardAul
+Field/Obj/Access Entries: [Residential_Project__c.Contract_Number__c#Read Only, Roof_Design__c.Created_Date_Time__c#Read Only, Roof_Design__c.EDDiE_Retrofit__c#Read/Write, InverterList__c.EDDiE_Retrofit__c#Read/Write]
+Checking FLS settings in salesforce for Prof: 
+Company Executive, 
+Design, 
+Design Advance, 
+Design Management, 
+Design Support Engineer, 
+Finance and Accounting, 
+Global Sales Ops, 
+Marketing Connect5, 
+O&M Manager, 
+Project Manager, 
+-------------------------------------------------
+Setting FLS for Profiles: Company Executive|Design|Design Advance|Design Management|Design Support Engineer|Finance and Accounting|Global Sales Ops|Marketing Connect5|O&M Manager|Project Manager|
+Sales Analyst, 
+Sales Management, 
+Sales Ops, 
+Sales Person, 
+Structured Finance, 
+SunPower Administrator, 
+SunPower Help Desk, 
+SunPower Lease Payment Access, 
+SunPower Marketing Analyst, 
+SunPower Order Management, 
+-------------------------------------------------
+Setting FLS for Profiles: Sales Analyst|Sales Management|Sales Ops|Sales Person|Structured Finance|SunPower Administrator|SunPower Help Desk|SunPower Lease Payment Access|SunPower Marketing Analyst|SunPower Order Management|
+SunPower Sales User, 
+SunPower Service User, 
+SunPower Super User, 
+SunPower User, 
+xxx SunPower Service User, 
+SunPower Admin(No Deployment), 
+System Administrator - Integration, 
+Partner Delegated Administrator, 
+Partner Executive, 
+Partner Sales, 
+-------------------------------------------------
+Setting FLS for Profiles: SunPower Sales User|SunPower Service User|SunPower Super User|SunPower User|xxx SunPower Service User|SunPower Admin(No Deployment)|System Administrator - Integration|Partner Delegated Administrator|Partner Executive|Partner Sales|
+Partner Technical, 
+Partner Operations, 
+Solar Advisor, 
+Partner TPS, 
+Partner SSE Installer, 
+Partner SSE Installer NH, 
+Analytics Cloud Integration User, 
+Analytics Cloud Security User, 
+AU Partner Executive, 
+AU Partner Installer, 
+-------------------------------------------------
+Setting FLS for Profiles: Partner Technical|Partner Operations|Solar Advisor|Partner TPS|Partner SSE Installer|Partner SSE Installer NH|Analytics Cloud Integration User|Analytics Cloud Security User|AU Partner Executive|AU Partner Installer|
+AU Partner Operations, 
+AU Partner Sales, 
+Birlasoft Support Admin, 
+Chatter External User, 
+Chatter Free User, 
+Chatter Moderator User, 
+Dealer Locator Profile, 
+Design - SSO, 
+DesignSignOff Profile, 
+Eloqua_Qualification WebService Profile, 
+-------------------------------------------------
+Setting FLS for Profiles: AU Partner Operations|AU Partner Sales|Birlasoft Support Admin|Chatter External User|Chatter Free User|Chatter Moderator User|Dealer Locator Profile|Design - SSO|DesignSignOff Profile|Eloqua_Qualification WebService Profile|
+EU Partner Delegated Administrator, 
+EU Partner Executive, 
+EU Partner Operations, 
+EU Partner Restricted, 
+EU Partner Sales, 
+EU Partner Technical, 
+EU Residential Installer, 
+EU TPO FR Partner Delegated Administrator, 
+EU TPO FR Partner Sales, 
+EU UAT Online Warranty, 
+-------------------------------------------------
+Setting FLS for Profiles: EU Partner Delegated Administrator|EU Partner Executive|EU Partner Operations|EU Partner Restricted|EU Partner Sales|EU Partner Technical|EU Residential Installer|EU TPO FR Partner Delegated Administrator|EU TPO FR Partner Sales|EU UAT Online Warranty|
+Force.com - One App User, 
+Force.com - One App User Custom, 
+Gold Partner User, 
+Greenlight Credit Check Integration, 
+Guest License User, 
+NA Warranty Pilot, 
+Overage Customer Portal Manager Custom, 
+Partner Operations (TEST), 
+Partner Restricted, 
+Partner Sales NH, 
+-------------------------------------------------
+Setting FLS for Profiles: Force.com - One App User|Force.com - One App User Custom|Gold Partner User|Greenlight Credit Check Integration|Guest License User|NA Warranty Pilot|Overage Customer Portal Manager Custom|Partner Operations (TEST)|Partner Restricted|Partner Sales NH|
+Partner TPS - DRIP, 
+Partner TPS - IP, 
+PartnerPortalLogin Profile, 
+PartnerPortalLoginTest Profile, 
+Partners Profile, 
+Platform PM Tool User, 
+Sales Analyst - UPP, 
+Sales Management - UPP, 
+Sales Ops - UPP, 
+Sales Person - UPP, 
+-------------------------------------------------
+Setting FLS for Profiles: Partner TPS - DRIP|Partner TPS - IP|PartnerPortalLogin Profile|PartnerPortalLoginTest Profile|Partners Profile|Platform PM Tool User|Sales Analyst - UPP|Sales Management - UPP|Sales Ops - UPP|Sales Person - UPP|
+Sunpower Admin(No Deployment), 
+SunPower Contracts Origination Admin, 
+SunPower Credit, 
+Sunpower CRM Profile, 
+SunPower CTI, 
+SunPower Direct Sales RLC, 
+SunPower External Integration, 
+SunPower External Integration Eloqua, 
+SunPower Inspector, 
+SunPower Lease/Pricing Administrator, 
+-------------------------------------------------
+Setting FLS for Profiles: Sunpower Admin(No Deployment)|SunPower Contracts Origination Admin|SunPower Credit|Sunpower CRM Profile|SunPower CTI|SunPower Direct Sales RLC|SunPower External Integration|SunPower External Integration Eloqua|SunPower Inspector|SunPower Lease/Pricing Administrator|
+SunPower LMS Administrator, 
+SunPower Partner Ambassador, 
+SunPower Partner Community Profile, 
+SunPower Portal Profile, 
+Sunpower Pricing Administrator, 
+SunPower Product Vendor Supplier, 
+SunPower Read Only, 
+SunPower Read Only - MDM, 
+SunPower User - PM Tool, 
+Sunpower Vendor - Lease Support, 
+-------------------------------------------------
+Setting FLS for Profiles: SunPower LMS Administrator|SunPower Partner Ambassador|SunPower Partner Community Profile|SunPower Portal Profile|Sunpower Pricing Administrator|SunPower Product Vendor Supplier|SunPower Read Only|SunPower Read Only - MDM|SunPower User - PM Tool|Sunpower Vendor - Lease Support|
+Sunrise Administrator - Advance, 
+System Administrator - No Customization, 
+System Administrator - No DDL, 
+System Administrator - No user Admin, 
+Test Profile (CRD Pilot), 
+TPO DSE Upload, 
+xxxCPR Integration, 
+xxxxLocator external Integration, 
+xxxxNew EU Partner Executive, 
+xxxxProject Manager Advance, 
+-------------------------------------------------
+Setting FLS for Profiles: Sunrise Administrator - Advance|System Administrator - No Customization|System Administrator - No DDL|System Administrator - No user Admin|Test Profile (CRD Pilot)|TPO DSE Upload|xxxCPR Integration|xxxxLocator external Integration|xxxxNew EU Partner Executive|xxxxProject Manager Advance|
+xxxxSales Ops - EU, 
+xxxxSales Person - EU, 
+xxxxSunPower Inspector New, 
+xxxxSunPower Lease Payment User, 
+xxxxSunPower Super User - PKB, 
+xxxxSunPower User - Alliance, 
+xxxxSunPower User - Modify, 
+xxxxSunPower User - WW, 
+xxxxSunrise Administrator, 
+Standard, 
+-------------------------------------------------
+Setting FLS for Profiles: xxxxSales Ops - EU|xxxxSales Person - EU|xxxxSunPower Inspector New|xxxxSunPower Lease Payment User|xxxxSunPower Super User - PKB|xxxxSunPower User - Alliance|xxxxSunPower User - Modify|xxxxSunPower User - WW|xxxxSunrise Administrator|Standard|
+Admin, 
+ContractManager, 
+MarketingProfile, 
+ReadOnly, 
+SolutionManager, 
+StandardAul, 
+-------------------------------------------------
+Setting FLS for last few Profiles: Admin|ContractManager|MarketingProfile|ReadOnly|SolutionManager|StandardAul|

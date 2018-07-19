@@ -1,0 +1,493 @@
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside Catch: null
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 66
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 67
+Inside Catch: null
+Inside Catch: null
+Possible blank rows before Object-END, i.e, after Field/Obj/Profile entries ended, next immediate row is NOT Class-END, hence Profile column will contain blank values in the end.. row: 70
+Possible blank rows before Object-END, i.e, after Field/Obj/Profile entries ended, next immediate row is NOT Class-END, hence Profile column will contain blank values in the end.. row: 71
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 73
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 77
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 78
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 80
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 83
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 84
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 86
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 89
+Inside iNextFLSStartRow: Blank Cell possible reason.. Row: 90
+Inside Catch: null
+key is: Company Executive & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: Design & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: Design Advance & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: Design Management & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: Marketing Connect5 & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: O&M Manager & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: SunPower Help Desk & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: Sunpower Lease Payment Access & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: SunPower Marketing Analyst & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: SunPower Order Management & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: SunPower Sales User & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: SunPower Service User & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+key is: xxx SunPower Service User & Value is: 
+[UC_Document__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Company Executive
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Design
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Design Advance
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Design Management
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Marketing Connect5
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: O&M Manager
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Help Desk
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sunpower Lease Payment Access
+Object: [UC_Document__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Marketing Analyst
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Order Management
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Sales User
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Service User
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxx SunPower Service User
+Object: [UC_Document__c#Read#BLANK#BLANK, NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Analytics Cloud Integration User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Analytics Cloud Security User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: AU Partner Executive
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: AU Partner Installer
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: AU Partner Operations
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: AU Partner Sales
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Birlasoft Support Admin
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Chatter External User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Chatter Free User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Chatter Moderator User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Dealer Locator Profile
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Design - SSO
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Design Support Engineer
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: DesignSignOff Profile
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Eloqua_Qualification WebService Profile
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: EU Partner Delegated Administrator
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: EU Partner Executive
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: EU Partner Operations
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: EU Partner Restricted
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: EU Partner Sales
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: EU Partner Technical
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: EU Residential Installer
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: EU TPO FR Partner Delegated Administrator
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: EU TPO FR Partner Sales
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: EU UAT Online Warranty
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Finance and Accounting
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Force.com - One App User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Force.com - One App User Custom
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Global Sales Ops
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Gold Partner User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Greenlight Credit Check Integration
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Guest License User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: NA Warranty Pilot
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Overage Customer Portal Manager Custom
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner Delegated Administrator
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner Executive
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner Operations
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner Operations (TEST)
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner Restricted
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner Sales
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner Sales NH
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner SSE Installer
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner SSE Installer NH
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner Technical
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner TPS
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner TPS - DRIP
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partner TPS - IP
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: PartnerPortalLogin Profile
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: PartnerPortalLoginTest Profile
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Partners Profile
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Platform PM Tool User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Project Manager
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sales Analyst
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sales Analyst - UPP
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sales Management
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sales Management - UPP
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sales Ops
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sales Ops - UPP
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sales Person
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sales Person - UPP
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Solar Advisor
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Structured Finance
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sunpower Admin(No Deployment)
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Administrator
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Contracts Origination Admin
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Credit
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sunpower CRM Profile
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower CTI
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Direct Sales RLC
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower External Integration
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower External Integration Eloqua
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Inspector
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Lease Payment Access
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Lease/Pricing Administrator
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower LMS Administrator
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Partner Ambassador
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Partner Community Profile
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Portal Profile
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sunpower Pricing Administrator
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Product Vendor Supplier
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Read Only
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Read Only - MDM
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower Super User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SunPower User - PM Tool
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sunpower Vendor - Lease Support
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Sunrise Administrator - Advance
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: System Administrator - Integration
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: System Administrator - No Customization
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: System Administrator - No DDL
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: System Administrator - No user Admin
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Test Profile (CRD Pilot)
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: TPO DSE Upload
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxCPR Integration
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxLocator external Integration
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxNew EU Partner Executive
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxProject Manager Advance
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxSales Ops - EU
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxSales Person - EU
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxSunPower Inspector New
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxSunPower Lease Payment User
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxSunPower Super User - PKB
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxSunPower User - Alliance
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxSunPower User - Modify
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxSunPower User - WW
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: xxxxSunrise Administrator
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Standard
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: Admin
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: ContractManager
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: MarketingProfile
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: ReadOnly
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: SolutionManager
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+-------------------------------------------------
+Profile: StandardAul
+Object: [NH_Community__c#Read, Edit#BLANK#BLANK, Residential_Project__c#Read, Edit#BLANK#BLANK, Project_Task__c#Read, Create, Edit#Sub_Task,Ad_Hoc#Ad_Hoc, Alliance_Partner__c#Read, Create, Edit#Community_Alliance_Partner,Project_Alliance_Partner#Community_Alliance_Partner, Project_Team_Member__c#Read, Edit#BLANK#BLANK, Task_Rework_Request__c#Read, Create, Edit#BLANK#BLANK, Project_Hold_Data__c#Read#BLANK#BLANK]
+****************************************************************
+        Setting Object Access in salesforce for Profiles:       
+****************************************************************
+--------------------------------------------------------------
+Comparing Object Access in RTP and salesforce for array of following 10 profiles: 
+1. Company Executive|2. Design|3. Design Advance|4. Design Management|5. Marketing Connect5|6. O&M Manager|7. SunPower Help Desk|8. Sunpower Lease Payment Access|9. SunPower Marketing Analyst|10. SunPower Order Management|Comparing component: Company Executive
+Comparing component: Design
+Comparing component: Design Advance
+Comparing component: Design Management
+Comparing component: Marketing Connect5
+Error: for Profile - Marketing Connect5 | Access in RTP: Read Edit | Access in Salesforce: Read Edit Create Delete View All Modify All | Obj: NH_Community__c
+Comparing component: O&M Manager
+Comparing component: SunPower Help Desk
+Comparing component: Sunpower Lease Payment Access
+Comparing component: SunPower Marketing Analyst
+Error: for Profile - SunPower Marketing Analyst | Access in RTP: Read Edit | Access in Salesforce: Read Edit View All | Obj: NH_Community__c
+Comparing component: SunPower Order Management
+
+Setting Object Access for Profile: 
+1. Company Executive|2. Design|3. Design Advance|4. Design Management|5. Marketing Connect5|6. O&M Manager|7. SunPower Help Desk|8. Sunpower Lease Payment Access|9. SunPower Marketing Analyst|10. SunPower Order Management|
+Updated component: Company Executive
+Updated component: Design
+Updated component: Design Advance
+Updated component: Design Management
+Updated component: Marketing Connect5
+Updated component: O&M Manager
+Updated component: SunPower Help Desk
+Updated component: Sunpower Lease Payment Access
+Updated component: SunPower Marketing Analyst
+Updated component: SunPower Order Management
+--------------------------------------------------------------
+Comparing Object Access in RTP and salesforce for array of following 10 profiles: 
+12. SunPower Sales User|13. SunPower Service User|14. xxx SunPower Service User|15. Analytics Cloud Integration User|16. Analytics Cloud Security User|17. AU Partner Executive|18. AU Partner Installer|19. AU Partner Operations|20. AU Partner Sales|21. Birlasoft Support Admin|Comparing component: SunPower Sales User
+Comparing component: SunPower Service User
+Comparing component: xxx SunPower Service User
+Comparing component: Analytics Cloud Integration User
+Comparing component: Analytics Cloud Security User
+Comparing component: AU Partner Executive
+Comparing component: AU Partner Installer
+Comparing component: AU Partner Operations
+Comparing component: AU Partner Sales
+Comparing component: Birlasoft Support Admin
+Error: for Profile - Birlasoft Support Admin | Access in RTP: Read Edit | Access in Salesforce: Read Edit Create Delete View All Modify All | Obj: NH_Community__c
+Error: for Profile - Birlasoft Support Admin | Access in RTP: Read Edit | Access in Salesforce: Read Edit Create Delete View All Modify All | Obj: Residential_Project__c
+Error: for Profile - Birlasoft Support Admin | Access in RTP: Read Create Edit | Access in Salesforce: Read Create Edit Delete View All Modify All | Obj: Project_Task__c
+Error: for Profile - Birlasoft Support Admin | Access in RTP: Read Create Edit | Access in Salesforce: Read Create Edit Delete View All Modify All | Obj: Alliance_Partner__c
+Error: for Profile - Birlasoft Support Admin | Access in RTP: Read Edit | Access in Salesforce: Read Edit Create Delete View All Modify All | Obj: Project_Team_Member__c
+Error: for Profile - Birlasoft Support Admin | Access in RTP: Read Create Edit | Access in Salesforce: Read Create Edit Delete View All Modify All | Obj: Task_Rework_Request__c
+Error: for Profile - Birlasoft Support Admin | Access in RTP: Read | Access in Salesforce: Read Create Edit Delete View All Modify All | Obj: Project_Hold_Data__c
+
+Setting Object Access for Profile: 
+11. SunPower Sales User|12. SunPower Service User|13. xxx SunPower Service User|14. Analytics Cloud Integration User|15. Analytics Cloud Security User|16. AU Partner Executive|17. AU Partner Installer|18. AU Partner Operations|19. AU Partner Sales|20. Birlasoft Support Admin|
+Updated component: SunPower Sales User
+Updated component: SunPower Service User
+Updated component: xxx SunPower Service User
+Updated component: Analytics Cloud Integration User
+Updated component: Analytics Cloud Security User
+Updated component: AU Partner Executive
+Updated component: AU Partner Installer
+Updated component: AU Partner Operations
+Error message: In field: fullName - no Profile named AU Partner Sales found
