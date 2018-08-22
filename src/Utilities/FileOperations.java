@@ -10,7 +10,12 @@ import java.util.Date;
 public class FileOperations {
 	SubhroAutomation commit-1
 	SubhroAutomation commit-3
+<<<<<<< HEAD
 	SubhroAutomation commit-7
+=======
+	Subhro80 commit - 4
+>>>>>>> branch 'WorkingBr1' of https://github.com/SubhroAutomation/Salesforce-API.git
+	SubhroAuto commit 8
 	
 	public static File file;
 	
