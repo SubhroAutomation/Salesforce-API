@@ -7,6 +7,7 @@ import java.util.Properties;
 public class PropertyFile {
 	SubhroAutomation commit-2
 	Subhro80 - commit - 5
+	Dubhro80 - Commit6
 	private static FileInputStream fStream;
 	private static Properties propertyFile = new Properties();
 	
