@@ -18,7 +18,11 @@ public class FileOperations {
 	SubhroAuto commit 8
 	Subhro coommit 9
 	
+<<<<<<< HEAD
 	SubhroAutomation ......
+=======
+	Subhro80.......
+>>>>>>> branch 'WorkingBr1' of https://github.com/SubhroAutomation/Salesforce-API.git
 	
 	public static File file;
 	
